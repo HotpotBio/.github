@@ -72,7 +72,7 @@ Viruses cause cervical cancer, Burkitt lymphoma, nasopharyngeal cancer (NPC), an
 # How To Contribute
 We welcome contributors of all backgrounds — healthcare professionals, academic researchers, software developers, ML engineers, or anyone passionate about healthcare and AI.
 
-For aspiring founders, we hope HotpotBio offers a hub to connect medical professionals and technical individuals since startups are great vehicles for delivering real world benefits.
+For aspiring founders, we hope HotpotBio offers a hub to connect medical professionals and technical individuals since startups are great vehicles for delivering change.
 
 1. Review **Collaboration Areas**.
 
