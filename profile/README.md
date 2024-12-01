@@ -129,6 +129,7 @@ HotpotBio focuses on science, deferring policy and ethics to other forums.
 Although this position may not appeal to all, the benefit of clear values is cultivating an environment where everyone can concentrate on science. Organizational theory demonstrates that teams united by shared priorities and explicit expectations tend to foster more productive collaborations.
 
 I understand the anxiety around AI, but our culture is rooted in a deep study of technology history and societal progress. Throughout time, a consistent pattern has characterized the emergence of disruptive technology. This cycle was observed with books, computers, the web, and it's repeating again with AI. Fear dominates the discourse while concerned critics seek to curb capabilities and protect the masses.
+
 With hindsight, we know those noble intentions were misguided and failed to account for the transformative benefits spawned by innovation. General technology, by definition, is wieldable for good or bad, but the good vastly outweighs the bad. This propels the world to greater heights of prosperity and accessibility.
 
 On ethics, most people aspire to be moral and responsible, but the challenge is: whose values dictate tradeoffs and resolve disputes? Officials from California, Texas, China, India, France, Japan, the UK, Saudi Arabia, or where? Whose risk profile shines the way forward? For instance, GPT-2, GPT-3, and GPT-4 were all considered too dangerous for the average person, but those worries proved exaggerated at best and unfounded at worst. Moreover, it's presumptuous to assume one jurisdiction can bottle up software ingenuity or constrain global innovation. If America surrenders AI leadership, other nations will readily fill the void.
@@ -144,9 +145,7 @@ This one dataset could power tens to hundreds of studies and hopefully set a new
 
 Human researchers need data as much as AI models, but the system does not incentivize anyone to invest in big datasets for tumor subtypes, even lethal ones like TNBC. Academics are motivated to diversify grants across multiple initiatives while clinicians are encouraged to focus on immediate impact. We seek to create an award-winning dataset based on 1,000 TNBC tumor samples and share the data globally.
 
-Donations are made directly to Stanford.
-
-No one from HotpotBio financially benefits, nor does anyone need to be involved beyond advising on dataset guidelines and how to ensure proceeds finance data and not administrative overhead.
+To eliminate donor risk, donations are made directly to Stanford. Help from HotpotBio is optional and would only involve advising on dataset guidelines and how to ensure proceeds cover data and not administrative overhead. (No crowdfunding page exists expressly to keep HotpotBio out of the loop.) No one from HotpotBio financially benefits.
 
 The more data we give researchers, the sooner they can potentially uncover new screening programs and targeted therapies for TNBC.
 
