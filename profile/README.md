@@ -76,7 +76,7 @@ For aspiring founders, we hope HotpotBio offers a hub to connect medical profess
 
 1. Review **Collaboration Areas**.
 
-2. Contact us. Reach out with the details below. See **Author and Contact** for contact information.
+2. Reach out with the details below. See **Author and Contact** for contact information.
 
 - Authorship: are you interested in authorship?
 - Interest areas: which areas interest you?
