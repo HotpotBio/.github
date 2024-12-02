@@ -67,7 +67,7 @@ Viruses cause cervical cancer, Burkitt lymphoma, nasopharyngeal cancer (NPC), an
 - EBV association with lung cancer, starting with non-small cell lung cancer (NSCLC).
 - EBV association with NPC, Burkitt lymphoma, and gastric cancer.
 - EBV association with MYC.
-- 1K TNBC dataset: see below.
+- TNBC dataset: see below.
 
 # How To Contribute
 We welcome contributors of all backgrounds — healthcare professionals, academic researchers, software developers, ML engineers, or anyone passionate about healthcare and AI.
@@ -112,8 +112,6 @@ Contributions can fit any schedule and take one of many forms:
 - Conducting lit reviews
 - Reviewing paper drafts
 
-Question creation takes 5-15 hours with our current AI workflow, but we plan to streamline the process further.
-
 ## Machine Learning
 - VLM
 - Computer vision
@@ -121,7 +119,7 @@ Question creation takes 5-15 hours with our current AI workflow, but we plan to 
 - LLM
 
 ## Software Development
-- Full-stack web development
+- Full-stack web development for simplifying how healthcare professionals create and review training data
 
 # Research Culture
 HotpotBio focuses on science, deferring policy and ethics to other forums.
@@ -138,22 +136,14 @@ While healthy people can afford the luxury of endless deliberation, the sick can
 
 Intelligent people may disagree. I respect different opinions and hope others can as well.
 
-# TNBC Dataset Donations
-Funding the TNBC dataset is a powerful, efficient way to push cancer research forward.
-
-This one dataset could power tens to hundreds of studies and hopefully set a new precedent for tackling tumor subtypes.
-
-Human researchers need data as much as AI models, but the system does not incentivize anyone to invest in big datasets for tumor subtypes, even lethal ones like TNBC. Academics are motivated to diversify grants across multiple initiatives while clinicians are encouraged to focus on immediate impact. We seek to create an award-winning dataset based on 1,000 TNBC tumor samples and share the data globally.
-
-To eliminate donor risk, donations are made directly to Stanford. Help from HotpotBio is optional and would only involve advising on dataset guidelines and how to ensure proceeds cover data and not administrative overhead. (No crowdfunding page exists expressly to keep HotpotBio out of the loop.) No one from HotpotBio financially benefits.
-
-The more data we give researchers, the sooner they can potentially uncover new screening programs and targeted therapies for TNBC.
+# TNBC Dataset Initiative
+One TNBC dataset could power tens to hundreds of cancer studies and hopefully set a new precedent for tackling tumor subtypes. <a href="https://hotpot.ai/cancer">See here</a> for how to help.
 
 # OpenAI, GoogleDeepMind, X, AWS, and Anthropic
-We can create clean datasets and difficult benchmarks, but long context, image, and video evaluations of frontier models are expensive. Credits and other support would accelerate these into reality. We welcome partnerships with AI leaders to advance benchmarks and datasets for biomedicine.
+We welcome partnerships with AI leaders to advance benchmarks and datasets for biomedicine. Long context, image, and video evaluations of frontier models are expensive. Credits and other support would accelerate these into reality.
 
 # Sponsors
-Hotpot.ai
+[Hotpot.ai](https://hotpot.ai)
 
 # Author and Contact
 Clarence Hu
@@ -161,19 +151,12 @@ Clarence Hu
 - Email: clarence --at-- hotpot dot ai
 
 # References
-1. https://www.who.int/news-room/fact-sheets/detail/cancer
-
-2. Given controversies over the definition of "open source," the term "open research" reflects a desire to advance biomedicine without getting ensnared by semantic debates.
-
-3. Extrachromosomal Amplification of Human Papillomavirus Episomes as a Mechanism of Cervical Carcinogenesis. https://www.biorxiv.org/content/10.1101/2021.10.22.465367v1
-
-4. Gaps and Opportunities to Improve Prevention of Human Papillomavirus-Related Cancers. https://pubmed.ncbi.nlm.nih.gov/34871035
-
-5. Epstein-Barr virus provides a survival factor to Burkitt's lymphomas. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC283581
-
-6. Targeting Epstein-Barr Virus in Nasopharyngeal Carcinoma. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7247807
-
-7. EBV Infection and Its Regulated Metabolic Reprogramming in Nasopharyngeal Tumorigenesis. https://pubmed.ncbi.nlm.nih.gov/35846746
-
-8. EBV infection-induced GPX4 promotes chemoresistance and tumor progression in nasopharyngeal carcinoma. https://pubmed.ncbi.nlm.nih.gov/35105963
+1.   [WHO Cancer Fact Sheet.](https://www.who.int/news-room/fact-sheets/detail/cancer)
+2.   Given controversies over the definition of "open source," the term "open research" reflects a desire to advance biomedicine without getting ensnared by semantic debates.
+3.   [Extrachromosomal Amplification of Human Papillomavirus Episomes as a Mechanism of Cervical Carcinogenesis.](https://www.biorxiv.org/content/10.1101/2021.10.22.465367v1)
+4.   [Gaps and Opportunities to Improve Prevention of Human Papillomavirus-Related Cancers.](https://pubmed.ncbi.nlm.nih.gov/34871035)
+5.   [Epstein-Barr virus provides a survival factor to Burkitt's lymphomas.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC283581)
+6.   [Targeting Epstein-Barr Virus in Nasopharyngeal Carcinoma.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7247807)
+7.   [EBV Infection and Its Regulated Metabolic Reprogramming in Nasopharyngeal Tumorigenesis.](https://pubmed.ncbi.nlm.nih.gov/35846746)
+8.   [EBV infection-induced GPX4 promotes chemoresistance and tumor progression in nasopharyngeal carcinoma.](https://pubmed.ncbi.nlm.nih.gov/35105963)
 
