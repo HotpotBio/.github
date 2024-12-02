@@ -137,7 +137,11 @@ While healthy people can afford the luxury of endless deliberation, the sick can
 Intelligent people may disagree. I respect different opinions and hope others can as well.
 
 # TNBC Dataset Initiative
-One TNBC dataset could power tens to hundreds of cancer studies and hopefully set a new precedent for tackling tumor subtypes. <a href="https://hotpot.ai/cancer">See here</a> for how to help.
+Triple-negative breast cancer (TNBC) is an aggressive cancer that disproportionately targets younger patients. It accounts for approximately 10–15% of all breast cancers and is prevalent among women under 40.
+
+One TNBC dataset could power tens to hundreds of cancer studies and hopefully set a new precedent for tackling tumor subtypes.
+
+[See here](https://hotpot.ai/cancer) for how to help.
 
 # OpenAI, GoogleDeepMind, X, AWS, and Anthropic
 We welcome partnerships with AI leaders to advance benchmarks and datasets for biomedicine. Long context, image, and video evaluations of frontier models are expensive. Credits and other support would accelerate these into reality.
