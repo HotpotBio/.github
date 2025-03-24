@@ -1,5 +1,5 @@
 # HotpotBio Introduction
-HotpotBio is the open research group of Hotpot.ai, established to give back to science via biomedical contributions. Due to restrictions on sharing GenAI research, we launched this group to support the community in other ways.
+HotpotBio is the open research group of Hotpot.ai, established to give back via biomedicine. Due to restrictions on publishing GenAI research, we launched this group to contribute to science in other ways.
 
 HotpotBio is inspired by open source where ephemeral groups can drive innovation by attracting talent across organizational boundaries.
 
