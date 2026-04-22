@@ -20,3 +20,12 @@ Ultimately, HotpotBio seeks to advance biomedical research by:
 1. Developing open-source frameworks and tools to help patients, researchers, and clinicians leverage AI
 2. Publishing papers to highlight where the current understanding in cancer and other diseases may be incomplete due to methodological gaps
 3. Building benchmarks to measure AGI progress in healthcare and general reasoning
+4. Developing healthcare and drug discovery models
+
+## Open-source Tools
+
+These tools are available for free in GPT, Claude, and Gemini.
+
+- [Patient.md](https://github.com/HotpotBio/Patient-md): simplifies case sharing for second opinions, promotes patient autonomy, and provides a foundation for clinical trial matching by providing a way to organize medical data for AI assistants.
+
+- [Study Conclusion Reviewer](https://github.com/HotpotBio/Study-Applicability-Reviewer): helps readers understand a study and identify which conclusions may not generalize to real patients, real-world settings, or broader populations. This  highlights concrete limitations in study design, sampling, measurement, and external validity without overstating what the paper can support.
